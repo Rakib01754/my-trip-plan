@@ -33,12 +33,12 @@ const Trip = ({ updateTime }) => {
                 <div className='bg-[#F2F4FA] gap-1 px-2 py-4 border-2 rounded-md mt-3'>
                     <div className='flex justify-between'>
                         <span className='font-bold'>Total Trip Duration</span>
-                        <span><span>{updateTime}</span> Days</span>
+                        <span><span className='font-bold'>{updateTime}</span> Days</span>
                     </div>
                     <hr className='m-2' />
                     <div className='flex justify-between'>
                         <span className='font-bold'>Total Break Duration</span>
-                        <span><span>{breaks}</span> Days</span>
+                        <span><span className='font-bold'>{breaks}</span> Days</span>
                     </div>
                 </div>
 
