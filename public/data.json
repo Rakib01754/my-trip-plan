@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "picture": "https://i.postimg.cc/hvFjyF9z/poet-kabi-jasimuddins-house.jpg",
+        "time": 2,
+        "name": "Polli Kobi Jasim Uddin House",
+        "about": "Jasim Uddin is the famous poet from Bangladesh, especially for his dedication to write poems about the folklore culture. He is the only poet from the country whose poems depicts the beauty of the villages and people of villages. The house of our beloved poet is situated by the river “Kumar”. The river itself is an enchanting for its beauty and environment. Inside the house premise, you'll find the grave of the poe"
+    },
+    {
+        "id": "2",
+        "picture": "https://i.postimg.cc/qqj7kNPn/nilgiri-travel-guide-770x420.jpg",
+        "time": 3,
+        "name": "Nilgiri Resort",
+        "about": "Nilgiri Resort is the top most resort in Bangladesh. Nilgiri Resort is located 47 kilometer South-East of Bandarban town on Chimbuk Range at a height of 2400 feet from sea level. Nilgiri Resort has a high class residential accommodation that makes a difference."
+    },
+    {
+        "id": "3",
+        "picture": "https://i.postimg.cc/8kKDzgFh/lalbag-fort-dhaka.jpg",
+        "time": 1,
+        "name": "Lalbag Fort Dhaka",
+        "about": "Lalbagh Fort (also Fort Aurangabad) is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.[1] The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah, who was a son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688.The fort was never completed, and unoccupied for a long period of time. Much of the complex was built over and now sits across from modern buildings. "
+    },
+    {
+        "id": "4",
+        "picture": " https://i.postimg.cc/j5S9pC4B/jaflong-travel.jpg",
+        "time": 2,
+        "name": "Jaflong Sylhet",
+        "about": "Jaflong (Bengali: জাফলং) is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests. It is known for its stone collections and is home of the Khasi tribe."
+    },
+    {
+        "id": "5",
+        "picture": "https://i.postimg.cc/wvMfWZ6p/Haringhata-Tourist-Spot-Barguna.jpg",
+        "time": 2,
+        "name": "Haringhata Tourist Spot",
+        "about": "From the Haringhata tourism center in South Barguna district, you can visit the fascinating natural forest and the sea. This walking spot of known and unknown trees and wildlife is a part of the Sundarbans. Boheshwars, poisons and pigeons that pass through the forest of Harynghata have mixed into the Bay of Bengal.One can go to the river by a road through the green forest. You can roam around with boats as you can go deep into the water of the three rivers or go to the Sundarbans by crossing the Baleeshwara river. There is also the facility of organizing a picnic at Harynghata tourist center."
+    },
+    {
+        "id": "6",
+        "picture": "https://i.postimg.cc/9QpzbN81/Arial-Bil-Munshiganj-770x420.jpg",
+        "time": 2,
+        "name": "Arial Bil Munshiganj",
+        "about": "Arial Beel is the third largest wetland in Bangladesh covering an area of 136 sq. km. It is situated in Srinagar Upazila of Munshiganj District. The beel consists of many small ponds and canals. During the rainy season, the plants become livelier and the vast with land borders look exotic. Though the beel reduces in winter, it still remains navigable. The beel abounds in fish and during the dry season the farmer's corns and vegetables in the dry area. The pumpkin of this beel is famous. You can have a tour of the beel by boats. The beel is just 35 km from Dhaka and can be reached in an hour and a half."
+    },
+    {
+        "id": "7",
+        "picture": "https://i.postimg.cc/dt2bTM3H/coxbazar-sea-beach.jpg",
+        "time": 5,
+        "name": "Coxbazar Sea Beach",
+        "about": "Cox's Bazar Beach (Bengali: কক্সবাজার সমুদ্র সৈকত), located at Cox's Bazar, Bangladesh, is the longest natural sea beach in the world running 120 kilometres (75 mi)[1][2][3][4][5] and 5th longest beach after Praia do Cassino of Brazil, Padre Island on the US Gulf Coast, Eighty Mile Beach in Western Australia, and Ninety Mile Beach of Australia. It is the top tourist destination of Bangladesh."
+    },
+    {
+        "id": "8",
+        "picture": "https://i.postimg.cc/LXg79wGV/bongobondhu-safar-parik-770x420.jpg",
+        "time": 2,
+        "name": "Bonghobondhu Safari Park",
+        "about": "Bangabandhu Sheikh Mujib Safari Park is one of the best tourist attractions in Bangladesh. You will get the taste of visiting wild Africa here. It is new and attractive visiting place. Everybody will be satisfied making a tour at Bangabandhu Sheikh Mujib Safari Park. It is mostly known as Gazipur Safari Park.Many tourists visit India, Nepal, Thailand, Indonesia or African countries to experience jungle environment. Now, you don't need to go there. Bangabandhu Sheikh Mujib Safari Park of Gazipur is enriched with such kind of thrill."
+    },
+    {
+        "id": "9",
+        "picture": "https://i.postimg.cc/WzBsp09d/birishiri-netrokona.jpg",
+        "time": 2,
+        "name": "Birishiri Netrokona",
+        "about": "Birishiri located at Shushong Durgapur Thana of the Netrokona District about 175 km north from Dhaka. It's a wonderful place with river, garo, ceramic hills, small mountains and the green countryside.The main attraction of Birishiri is the ceramic hill of Durgapur and the picturesque landscape along the Shomeshwari River. It's not only blessed by the above, is also reach in ethnic culture as there are many ethnic groups like – Hajong, Garo, Achik and Mandi etc lives here. There is also an ethnic museum at Birishiri."
+    }
+]
