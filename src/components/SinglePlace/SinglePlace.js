@@ -13,7 +13,7 @@ const SinglePlace = ({ data }) => {
                     <p>{about ? about.slice(0, 100) + '...' : 'no data found'}</p>
                     <p className='font-bold'>Trip Duration: {time} Days </p>
                     <div className="card-actions">
-                        <button class="btn btn-outline mb-3">Select Place</button>
+                        <button className="btn btn-outline mb-2">Select Place</button>
                     </div>
                 </div>
             </div>
