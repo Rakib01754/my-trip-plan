@@ -1,7 +1,11 @@
 import React from 'react';
 
-const SinglePlace = ({ data }) => {
-    const { picture, time, name, about } = data
+const SinglePlace = ({ data, handleTripTime }) => {
+    const clickFunction = (time) => {
+        handleTripTime(time)
+    }
+
+    const { picture, time, name, about, id } = data
     return (
         <div>
             <div className="card bg-base-100 shadow-xl h-[480px]">
@@ -13,7 +17,7 @@ const SinglePlace = ({ data }) => {
                     <p>{about ? about.slice(0, 100) + '...' : 'no data found'}</p>
                     <p className='font-bold'>Trip Duration: {time} Days </p>
                     <div className="card-actions">
-                        <button className="btn btn-outline mb-2">Select Place</button>
+                        <button className="btn btn-outline mb-2" onClick={() => clickFunction(time)}>Select Place</button>
                     </div>
                 </div>
             </div>
