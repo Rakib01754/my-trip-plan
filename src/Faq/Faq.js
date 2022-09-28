@@ -5,7 +5,7 @@ const Faq = () => {
         <div>
             <h2 className='text-3xl font-bold mt-3 underline'> FAQ </h2>
             <div className="collapse w-[75%] mx-auto mb-12 mt-3">
-                <input type="checkbox" class="peer" />
+                <input type="checkbox" className="peer" />
                 <div className="collapse-title bg-gray-200 text-black peer-checked:bg-secondary peer-checked:text-secondary-content font-bold">
                     1. How Does React Works?
                 </div>
@@ -15,7 +15,7 @@ const Faq = () => {
                 </div>
             </div>
             <div className="collapse w-[75%] mx-auto mb-12 mt-3">
-                <input type="checkbox" class="peer" />
+                <input type="checkbox" className="peer" />
                 <div className="collapse-title bg-gray-200 text-black peer-checked:bg-secondary peer-checked:text-secondary-content font-bold">
                     2. Difference Beetween Props And State?
                 </div>
@@ -24,7 +24,7 @@ const Faq = () => {
                 </div>
             </div>
             <div className="collapse w-[75%] mx-auto mb-12 mt-3">
-                <input type="checkbox" class="peer" />
+                <input type="checkbox" className="peer" />
                 <div className="collapse-title bg-gray-200 text-black peer-checked:bg-secondary peer-checked:text-secondary-content font-bold">
                     3. What Is The Uses Of useEffect Hook without Data Load?
                 </div>

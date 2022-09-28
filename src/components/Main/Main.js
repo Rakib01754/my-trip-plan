@@ -12,7 +12,7 @@ const Main = () => {
         }
     }, [])
     const handleTripTime = (time) => {
-        const newTime = times + time;
+        const newTime = parseInt(times) + parseInt(time);
         setTimes(newTime);
         localStorage.setItem('trip-time', newTime)
     }
