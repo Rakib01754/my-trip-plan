@@ -4,7 +4,7 @@ const SinglePlace = ({ data }) => {
     const { picture, time, name, about } = data
     return (
         <div>
-            <div className="card bg-base-100 shadow-xl h-[450px]">
+            <div className="card bg-base-100 shadow-xl h-[480px]">
                 <figure className="px-5 pt-5">
                     <img src={picture} alt="tour spot" className="rounded-xl" />
                 </figure>
@@ -13,7 +13,7 @@ const SinglePlace = ({ data }) => {
                     <p>{about ? about.slice(0, 100) + '...' : 'no data found'}</p>
                     <p className='font-bold'>Trip Duration: {time} Days </p>
                     <div className="card-actions">
-                        <button class="btn btn-outline">Select Place</button>
+                        <button class="btn btn-outline mb-3">Select Place</button>
                     </div>
                 </div>
             </div>

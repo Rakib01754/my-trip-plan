@@ -4,7 +4,7 @@ import Sidebar from '../Sidebar/Sidebar';
 
 const Main = () => {
     return (
-        <div className='flex mt-8'>
+        <div className='flex flex-col md:flex-row lg:flex-row mt-8 bg-slate-100 '>
             <Places></Places>
             <Sidebar></Sidebar>
         </div>
