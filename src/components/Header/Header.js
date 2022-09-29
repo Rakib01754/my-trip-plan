@@ -6,7 +6,7 @@ const Header = () => {
         <div>
             <div className="navbar flex items-center border-b-2" >
                 <img src={logo} alt="logo" className='w-[120px]' />
-                <span className='text-3xl font-bold'>My Trip Plan</span>
+                <span className='text-4xl font-bold mt-3 ml-2'>My Trip Plan</span>
             </div>
 
         </div>

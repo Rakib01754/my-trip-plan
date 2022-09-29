@@ -1,9 +1,9 @@
 import React from 'react';
-import Profile from '../../Profile/Profile';
 import About from '../About/About';
 import Trip from '../Trip/Trip';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Profile from '../Profile/Profile';
 
 const Sidebar = ({ updateTime }) => {
     const notify = () => toast("Wow!! Finally Trip Completed!");

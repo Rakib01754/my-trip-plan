@@ -5,7 +5,7 @@ const SinglePlace = ({ data, handleTripTime }) => {
         handleTripTime(time)
     }
 
-    const { picture, time, name, about, id } = data
+    const { picture, time, name, about } = data
     return (
         <div>
             <div className="card bg-base-100 shadow-xl h-[480px]">

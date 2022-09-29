@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Faq from '../../Faq/Faq';
+import Faq from '../Faq/Faq';
 import Places from '../Places/Places';
 import Sidebar from '../Sidebar/Sidebar';
 
@@ -19,7 +19,7 @@ const Main = () => {
 
     return (
         <div>
-            <div className='flex flex-col md:flex-row lg:flex-row mt-8 bg-slate-100 '>
+            <div className='flex flex-col md:flex-row lg:flex-row pt-8 bg-slate-100'>
                 <Places
                     handleTripTime={handleTripTime}
                 ></Places>

@@ -10,7 +10,7 @@ const Places = ({ handleTripTime }) => {
             .then(data => setPlaces(data))
     }, [])
     return (
-        <div className='w-12/12 md:w-8/12 lg:w-8/12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8'>
+        <div className='w-12/12 md:w-8/12 lg:w-8/12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8 px-3'>
             {
                 places.map(place => <SinglePlace
                     key={place.id}
